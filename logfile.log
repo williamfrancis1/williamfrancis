@@ -1,0 +1,15 @@
+2019-10-22 12:48:38,286 INFO  [Log] *******started execution*********** 
+2019-10-22 12:49:16,157 INFO  [Log] Login Completed 
+2019-10-22 12:49:16,324 INFO  [Log] Text Verified 
+2019-10-22 12:49:18,124 INFO  [Log] Logout Completed 
+2019-10-22 12:49:23,458 INFO  [Log] Application close successfully 
+2019-10-22 12:49:23,458 INFO  [Log] *******End execution*********** 
+2019-10-22 12:50:54,186 INFO  [Log] *******started execution*********** 
+2019-10-22 12:51:20,727 INFO  [Log] Login Completed 
+2019-10-22 12:51:20,782 INFO  [Log] Text Verified 
+2019-10-22 12:51:29,069 INFO  [Log] MouseOver Completed 
+2019-10-22 12:51:32,102 INFO  [Log] PIM Menu 
+2019-10-22 12:51:41,443 INFO  [Log] New Employee Added 
+2019-10-22 12:51:43,222 INFO  [Log] Logout Completed 
+2019-10-22 12:51:44,734 INFO  [Log] Application close successfully 
+2019-10-22 12:51:44,734 INFO  [Log] *******End execution*********** 

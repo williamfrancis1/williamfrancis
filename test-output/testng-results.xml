@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[application opened]]>
+    </line>
+    <line>
+      <![CDATA[Login Completed]]>
+    </line>
+    <line>
+      <![CDATA[Text Verified]]>
+    </line>
+    <line>
+      <![CDATA[MouseOver Completed]]>
+    </line>
+    <line>
+      <![CDATA[PIM Menu]]>
+    </line>
+    <line>
+      <![CDATA[New Employee added]]>
+    </line>
+    <line>
+      <![CDATA[Logout Completed]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2019-10-22T12:50:54 IST" name="Default suite" finished-at="2019-10-22T12:51:44 IST" duration-ms="50741">
+    <groups>
+    </groups>
+    <test started-at="2019-10-22T12:50:54 IST" name="Default test" finished-at="2019-10-22T12:51:44 IST" duration-ms="50741">
+      <class name="com.hrms.TestScripts.TC_102">
+        <test-method signature="main()[pri:0, instance:com.hrms.TestScripts.TC_102@534df152]" started-at="2019-10-22T12:50:54 IST" name="main" finished-at="2019-10-22T12:51:44 IST" duration-ms="50689" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[application opened]]>
+            </line>
+            <line>
+              <![CDATA[Login Completed]]>
+            </line>
+            <line>
+              <![CDATA[Text Verified]]>
+            </line>
+            <line>
+              <![CDATA[MouseOver Completed]]>
+            </line>
+            <line>
+              <![CDATA[PIM Menu]]>
+            </line>
+            <line>
+              <![CDATA[New Employee added]]>
+            </line>
+            <line>
+              <![CDATA[Logout Completed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- main -->
+      </class> <!-- com.hrms.TestScripts.TC_102 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

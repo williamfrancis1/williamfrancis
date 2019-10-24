@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="hrms_FrameWorks">
+	<test name="testngTest">
+		<classes>
+			<class name="com.hrms.TestScripts.TC_101" />
+			<class name="com.hrms.TestScripts.TC_102" />
+			<class name="com.hrms.TestScripts.TC_103" />
+		</classes>
+	</test>
+</suite>
